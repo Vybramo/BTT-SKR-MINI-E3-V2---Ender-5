@@ -11,8 +11,8 @@ Board Firmware:
 I fix issue with wrong homing and axis movement direction
 X Y Z Homing at 0
 Corrected position of endstop connector to MIN
-Bed size 220x220
-
+Bed size : 220x220
+E-stepps : 98.5
 Disabled : Linear Advance
            S-Curve
            
